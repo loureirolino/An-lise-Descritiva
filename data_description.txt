@@ -45,4 +45,5 @@ USO_TEMPO_TELAS: Tempo gasto assistindo à TV, navegando na internet ou jogando 
 AFAZERES_DOM:  Tempo gasto fazendo trabalhos domésticos (ex.: lavando louça, limpando o quintal etc.) em dias de aula
 (Menos de 1 hora, Entre 1 e 2 horas, Mais de 2 horas, até 3 horas, Mais de 3 horas, Não faço trabalhos domésticos)
 
-BIBLIOTECA: Você utiliza a biblioteca ou sala de leitura da sua escola? (Sempre ou quase sempre, De vez em quando, Nunca ou quase nunca, A escola não possui biblioteca ou sala de leitura)
+BIBLIOTECA: Você utiliza a biblioteca ou sala de leitura da sua escola?
+(Sempre ou quase sempre, De vez em quando, Nunca ou quase nunca, A escola não possui biblioteca ou sala de leitura)
