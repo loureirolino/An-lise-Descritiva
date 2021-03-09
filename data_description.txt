@@ -4,7 +4,7 @@ Os dados foram produzidos pelo INEP e estão disponíveis em (http://portal.inep
 
 Para maiores informações sobre o SAEB (Prova Brasil), ler documento do usuário disponível na plataforma.
 
-Cada estudante receberá um arquivo em CSV com dados de uma amostra de 2000 estudantes do 5o. ano que participaram do SAEB (Aneb/Prova Brasil)l em 2017,
+Cada estudante recebeu um arquivo em CSV com dados de uma amostra de 2000 estudantes do 5º ano que participaram do SAEB (Aneb/Prova Brasil)l em 2017,
 com as seguintes variáveis:
 
 ANO: ano de realização do SAEB
@@ -21,9 +21,9 @@ LOCAL: Localização da escola do estudante(urbana ou rural)
 
 DEPENDENCIA_ADM : Categoria administrativa da escola do estudante (Federal, Estadual, Municipal)
 
-NOTA_LP: Proficiência em Língua Portuguesa transformada na escala única do SAEB, com média = 250, desvio = 50 (do SAEB/97)
+NOTA_LP: Proficiência em Língua Portuguesa transformada na escala única do SAEB
 
-NOTA_MT: Proficiência do aluno em Matemática transformada na escala única do SAEB, com média = 250, desvio = 50 (do SAEB/97)
+NOTA_MT: Proficiência do aluno em Matemática transformada na escala única do SAEB
 
 SEXO: Sexo do estudante (Masculino, Feminino)
 
