@@ -477,7 +477,7 @@ sd(df_amostra$NOTA_MT)
 #47.20419
 
 
-# Variável - NOTA_LP #
+# Variável - NOTA_MT #
 # Medidas do Coeficiente de Curtose de Pearson e Coeficiente de Assimetria
 round(kurtosis(df_amostra$NOTA_MT), 2)
 # 2.56 - platicúrtica
@@ -485,7 +485,7 @@ round(skewness(df_amostra$NOTA_MT), 2)
 # 0.17 - cauda do lado direito é relativamente maior que a do lado esquerdo
 
 
-# Variável - NOTA_LP #
+# Variável - NOTA_MT #
 # Boxplot
 df_amostra %>%
   ggplot(aes(x="", y = NOTA_MT)) +
