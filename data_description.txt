@@ -4,7 +4,8 @@ Os dados foram produzidos pelo INEP e estão disponíveis em (http://portal.inep
 
 Para maiores informações sobre o SAEB (Prova Brasil), ler documento do usuário disponível na plataforma.
 
-Cada estudante receberá um arquivo em CSV com dados de uma amostra de 2000 estudantes do 5o. ano que participaram do SAEB (Aneb/Prova Brasil)l em 2017, com as seguintes variáveis:
+Cada estudante receberá um arquivo em CSV com dados de uma amostra de 2000 estudantes do 5o. ano que participaram do SAEB (Aneb/Prova Brasil)l em 2017,
+com as seguintes variáveis:
 
 ANO: ano de realização do SAEB
 
@@ -38,8 +39,10 @@ MORA_PAI: Você mora com seu pai? (Sim, Não, Não, mas moro com outra homem res
 
 REUNIÕES_ESCOLARES: Frequência dos pais, ou responsáveis à reunião de pais? (Sempre ou quase sempre, De vez em quando, Nunca ou quase nunca)
 
-USO_TEMPO_TELAS: Tempo gasto assistindo à TV, navegando na internet ou jogando jogos eletrônicos em dias de aula (Menos de 1 hora, Entre 1 e 2 horas, Mais de 2 horas, até 3 horas, Mais de 3 horas, Não vejo TV, não navego na internet e não jogo jogos eletrônicos)
+USO_TEMPO_TELAS: Tempo gasto assistindo à TV, navegando na internet ou jogando jogos eletrônicos em dias de aula
+(Menos de 1 hora, Entre 1 e 2 horas, Mais de 2 horas, até 3 horas, Mais de 3 horas, Não vejo TV, não navego na internet e não jogo jogos eletrônicos)
 
-AFAZERES_DOM:  Tempo gasto fazendo trabalhos domésticos (ex.: lavando louça, limpando o quintal etc.) em dias de aula (Menos de 1 hora, Entre 1 e 2 horas, Mais de 2 horas, até 3 horas, Mais de 3 horas, Não faço trabalhos domésticos)
+AFAZERES_DOM:  Tempo gasto fazendo trabalhos domésticos (ex.: lavando louça, limpando o quintal etc.) em dias de aula
+(Menos de 1 hora, Entre 1 e 2 horas, Mais de 2 horas, até 3 horas, Mais de 3 horas, Não faço trabalhos domésticos)
 
 BIBLIOTECA: Você utiliza a biblioteca ou sala de leitura da sua escola? (Sempre ou quase sempre, De vez em quando, Nunca ou quase nunca, A escola não possui biblioteca ou sala de leitura)
