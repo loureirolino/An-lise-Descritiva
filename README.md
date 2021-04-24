@@ -9,10 +9,12 @@ Este trabalho tem como intuito fazer uma análise descritiva de uma amostra de 2
 ## Conteúdo:
 
 * script.r  - Código-fonte em linguagem R (Análise Descritiva);
+* script2.r - Código-fonte em linguagem R (Estimação de Parâmetros);
+* script4.r - Código fonte em linguagem R (Comparação entre Duas Populações);
 * LICENSE - Licença GNU 3;
 * amostra.csv - Banco de dados em formato csv;
 * data_description - Descrição das variáveis do banco de dados;
-* graficos - Pasta contendo os gráficos gerados durante a análise;
-* script2.r - Código-fonte em linguagem R (Estimação de Parâmetros).
+* graficos - Pasta contendo os gráficos gerados durante a análise.
+
 
 
